@@ -16,7 +16,7 @@ You can install R studio using Anaconda.
 
 The RStudio is divided into four main panels, each serving a different purpose. 
 
-![RStudio Interface](https://github.com/xchee-01/Private-R-curriculum/blob/main/Fundamentals_of_R_programming/Images/Rstudios_interface.png)
+![RStudio Interface](https://github.com/xchee-01/1_Fundamentals-of-R-programming/blob/main/Images/Rstudios_interface.png)
 
 **1. Script Editor:**
 
