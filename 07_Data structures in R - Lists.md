@@ -42,10 +42,13 @@ my_list <- list(
 You can access the elements like these:
 
 ```
-my_list[1]
-my_list[[1]]
-my_list[['numbers']]
-my_list$numbers
+i. my_list[1]
+
+ii. my_list[[1]]
+
+iii. my_list[['numbers']]
+
+iv. my_list$numbers
 ```
 
 > [!CAUTION]
