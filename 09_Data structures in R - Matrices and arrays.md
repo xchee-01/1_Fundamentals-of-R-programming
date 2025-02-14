@@ -9,11 +9,15 @@ Matrices and arrays are essential for handling multi-dimensional data, commonly 
 You can create a matrix like this:
 
 ```
-manual_matrix <- matrix(c(1, 2, 3,
-                          4, 5, 6,
-                          7, 8, 9))
+patient_data <- matrix(
+  c(1, 4, 7,    
+    2, 5, 8,    
+    3, 6, 9),  
+  nrow = 3,
+  ncol = 3
+)
 
-patient_data # to view the matrix
+patient_data
 ```
 
 > [!NOTE]
